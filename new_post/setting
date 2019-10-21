@@ -1,0 +1,13 @@
+[telegram]
+token = your_token_telegram_bot
+chat_id = your_chat_id
+
+[mysql]
+hostname = IP_server_mysql
+username = new_post
+password = your_password
+database = new_post
+
+[sites]
+url = https://news.cloud365.vn/
+url_do = https://www.digitalocean.com/community/tutorials/
