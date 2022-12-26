@@ -1,4 +1,4 @@
-wheel==0.33.4
+wheel==0.38.1
 python-telegram-bot==9.0.0
 apscheduler==3.5.0
 emoji==0.4.5
